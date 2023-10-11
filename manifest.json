@@ -4,12 +4,7 @@
   "description": "Boko App",
   "manifest_version": 3,
   "action": {
-    "default_icon": {
-      "16": "bokologo-16.png",
-      "32": "bokologo-32.png",
-      "48": "bokologo-48.png",
-      "128": "bokologo-128.png"
-    },
+    "default_icon": "bokologo-128.png",
     "default_popup": "popup.html"
   },
   "icons": [

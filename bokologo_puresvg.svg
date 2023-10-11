@@ -4,7 +4,7 @@
    font-family="Climate Crisis"
    version="1.1"
    id="svg3"
-   sodipodi:docname="bokologo.svg"
+   sodipodi:docname="bokologo_puresvg.svg"
    inkscape:version="1.3 (0e150ed, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -49,19 +49,15 @@
      fill="brown"
      id="text1">B</text>
   <text
-     x="14.421915"
-     y="43.370892"
-     font-size="19.9688px"
-     fill="#a52a2a"
-     id="text2"
-     transform="scale(0.90140595,1.1093781)"
-     style="stroke-width:1.10938">M</text>
+     x="13"
+     y="45"
+     font-size="18"
+     fill="brown"
+     id="text2">M</text>
   <text
-     x="33.049988"
-     y="41.133018"
-     font-size="39.8879px"
-     fill="#ffa500"
-     id="text3"
-     transform="scale(0.87745874,1.1396547)"
-     style="stroke-width:1.13966">oko</text>
+     x="29"
+     y="42"
+     font-size="35"
+     fill="orange"
+     id="text3">oko</text>
 </svg>
