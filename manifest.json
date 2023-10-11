@@ -1,0 +1,40 @@
+{
+  "name": "Boko App",
+  "version": "1.0.0",
+  "description": "Boko App",
+  "manifest_version": 3,
+  "action": {
+    "default_icon": {
+      "16": "bokologo-16.png",
+      "32": "bokologo-32.png",
+      "48": "bokologo-48.png",
+      "128": "bokologo-128.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "icons": [
+    {
+      "src": "bokologo-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "bokologo-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "bokologo-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "bokologo-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "permissions": [
+    "activeTab"
+  ]
+}
